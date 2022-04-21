@@ -1,0 +1,6 @@
+[submodule "WAA-Mini-Online-Market-FrontEnd"]
+	path = WAA-Mini-Online-Market-FrontEnd
+	url = git@github.com:thekaleab/WAA-Mini-Online-Market-FrontEnd.git
+[submodule "WAA-Mini-Online-Market-Backend"]
+	path = WAA-Mini-Online-Market-Backend
+	url = git@github.com:thekaleab/WAA-Mini-Online-Market-Backend.git
