@@ -4,3 +4,6 @@
 [submodule "WAA-Mini-Online-Market-Backend"]
 	path = WAA-Mini-Online-Market-Backend
 	url = git@github.com:thekaleab/WAA-Mini-Online-Market-Backend.git
+	branch = dockerize_app
+[submodule "WAA-Mini-Online-Market-Frontend"]
+	branch = dockerize_app
